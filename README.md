@@ -1,7 +1,5 @@
 ### Install Dependencies
 
-cd frontend
-
 npm install
 
 ### Run
