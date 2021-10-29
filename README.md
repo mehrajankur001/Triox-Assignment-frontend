@@ -1,14 +1,14 @@
-### Install Dependencies
+# Install Dependencies
 
 npm install
 
-### Run
+# Run
 
 # Run frontend (:3000)
 
 npm start
 
-### Note
+# Note
 
 Make sure start the backend server first 
 
