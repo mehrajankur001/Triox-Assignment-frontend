@@ -1,10 +1,14 @@
+# Clone
+
+git clone https://github.com/mehrajankur001/Triox-Assignment-frontend.git
+
 # Install Dependencies
+
+cd Triox-Assignment-frontend
 
 npm install
 
 # Run
-
-# Run frontend (:3000)
 
 npm start
 
